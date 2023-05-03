@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677311571 source:c:\users\shadow\projects\c projects\dive into c 4.0 questions\main.c
+	<stdio.h>
+	<stdlib.h>
+
